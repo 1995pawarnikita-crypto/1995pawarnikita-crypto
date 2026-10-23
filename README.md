@@ -1,16 +1,42 @@
-## Hi there 👋
 
-<!--
-**1995pawarnikita-crypto/1995pawarnikita-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# Hey there, I'm Nikita Patil! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Experienced Software Engineer
+
+Passionate about coding, learning new technologies, and building projects that solve real-world problems.
+
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+- 🌱 Continuously learning and improving my development skills.
+- 💡 Interested in software development and problem-solving.
+- 🚀 Building projects to gain practical experience.
+- 🎯 Focused on growing as a developer and exploring new technologies.
+
+## 🛠️ Technologies & Skills
+
+- **Programming:** Java
+- **Interests:** Software Development, Problem Solving
+- **Currently Exploring:** New tools and technologies
+
+## 📌 Featured Project
+
+### 🏥 Healthcare Automation
+A medicine booking application developed using Java.
+
+Explore my repositories to see what I'm building!
+
+---
+
+<div align="center">
+
+### ✨ Learn. Build. Grow.
+
+*Thanks for visiting my profile!*
+
+</div>
