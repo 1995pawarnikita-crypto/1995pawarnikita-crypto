@@ -3,9 +3,9 @@
 
 # Hey there, I'm Nikita Patil! 👋
 
-### 💻 Experienced Software Engineer
+### 💻 Software Tester
 
-Passionate about coding, learning new technologies, and building projects that solve real-world problems.
+Passionate about coding,testing,learning new technologies, and building projects that solve real-world problems.
 
 </div>
 
@@ -14,15 +14,15 @@ Passionate about coding, learning new technologies, and building projects that s
 ## 👩‍💻 About Me
 
 - 🌱 Continuously learning and improving my development skills.
-- 💡 Interested in software development and problem-solving.
+- 💡 Interested in software testing and problem-solving.
 - 🚀 Building projects to gain practical experience.
 - 🎯 Focused on growing as a developer and exploring new technologies.
 
 ## 🛠️ Technologies & Skills
 
-- **Programming:** Java
-- **Interests:** Software Development, Problem Solving
-- **Currently Exploring:** New tools and technologies
+- **Programming:** Java,JavaScripts,HTML,CSS
+- **Interests:** Software Testing, Agile Development
+- **Currently Exploring:** New tools and technologies AI.
 
 ## 📌 Featured Project
 
